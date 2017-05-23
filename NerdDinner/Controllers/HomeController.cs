@@ -10,7 +10,7 @@ namespace NerdDinner.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Organizing the world's nerds and helping them eat in packs.";
+            ViewBag.Message = "Organizingthe world's nerds and helping them eat in packs.";
 
             return View();
         }
